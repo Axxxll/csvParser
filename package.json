@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "tokenStorage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Axl",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.19"
+  }
+}

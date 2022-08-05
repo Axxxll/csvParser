@@ -1,0 +1,1127 @@
+[
+    {
+        "blockHight": "1617878333",
+        "token": "Balancer Pool Token",
+        "balance": 190720.88337299277
+    },
+    {
+        "blockHight": "1619248736",
+        "token": "Balancer",
+        "balance": 220.74344311984396
+    },
+    {
+        "blockHight": "1619251311",
+        "token": "Balancer",
+        "balance": 110.37194311984396
+    },
+    {
+        "blockHight": "1619255268",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1619255268",
+        "token": "Wrapped BTC",
+        "balance": 0.10776606
+    },
+    {
+        "blockHight": "1619255760",
+        "token": "Wrapped BTC",
+        "balance": 0
+    },
+    {
+        "blockHight": "1619255760",
+        "token": "Balancer Pool Token",
+        "balance": 191197.11478789002
+    },
+    {
+        "blockHight": "1619965590",
+        "token": "Balancer",
+        "balance": 141.95550537716443
+    },
+    {
+        "blockHight": "1619968247",
+        "token": "Balancer",
+        "balance": 70.97750537716443
+    },
+    {
+        "blockHight": "1619972263",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1619972263",
+        "token": "yearn.finance",
+        "balance": 0.08901928924307473
+    },
+    {
+        "blockHight": "1619974066",
+        "token": "yearn.finance",
+        "balance": 0
+    },
+    {
+        "blockHight": "1619974066",
+        "token": "Balancer Pool Token",
+        "balance": 191518.1961886582
+    },
+    {
+        "blockHight": "1620213119",
+        "token": "Balancer",
+        "balance": 135.5695609049276
+    },
+    {
+        "blockHight": "1620218457",
+        "token": "Balancer",
+        "balance": 67.78456090492762
+    },
+    {
+        "blockHight": "1620220228",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1620220228",
+        "token": "Wrapped BTC",
+        "balance": 0.08234019
+    },
+    {
+        "blockHight": "1620220435",
+        "token": "Wrapped BTC",
+        "balance": 0
+    },
+    {
+        "blockHight": "1620220435",
+        "token": "Balancer Pool Token",
+        "balance": 191850.60376652877
+    },
+    {
+        "blockHight": "1621073125",
+        "token": "Balancer",
+        "balance": 135.69485756881215
+    },
+    {
+        "blockHight": "1621079057",
+        "token": "Balancer",
+        "balance": 67.84785756881216
+    },
+    {
+        "blockHight": "1621080475",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1621080475",
+        "token": "Wrapped BTC",
+        "balance": 0.08376101
+    },
+    {
+        "blockHight": "1621103985",
+        "token": "Wrapped BTC",
+        "balance": 0
+    },
+    {
+        "blockHight": "1621103985",
+        "token": "Balancer Pool Token",
+        "balance": 192131.9291734019
+    },
+    {
+        "blockHight": "1622382680",
+        "token": "Balancer",
+        "balance": 299.9337737491112
+    },
+    {
+        "blockHight": "1622386009",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1622386009",
+        "token": "Wrapped BTC",
+        "balance": 0.23267768
+    },
+    {
+        "blockHight": "1622387396",
+        "token": "Wrapped BTC",
+        "balance": 0
+    },
+    {
+        "blockHight": "1622387396",
+        "token": "Balancer Pool Token",
+        "balance": 193041.81881865163
+    },
+    {
+        "blockHight": "1622832023",
+        "token": "Balancer",
+        "balance": 152.78631407223097
+    },
+    {
+        "blockHight": "1622835589",
+        "token": "Balancer",
+        "balance": 76.39331407223096
+    },
+    {
+        "blockHight": "1622838474",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1622838474",
+        "token": "yearn.finance",
+        "balance": 0.05234276646840619
+    },
+    {
+        "blockHight": "1622839079",
+        "token": "yearn.finance",
+        "balance": 0
+    },
+    {
+        "blockHight": "1622839079",
+        "token": "Balancer Pool Token",
+        "balance": 193281.18292417473
+    },
+    {
+        "blockHight": "1623610245",
+        "token": "Balancer",
+        "balance": 141.5091619741265
+    },
+    {
+        "blockHight": "1623610867",
+        "token": "Balancer",
+        "balance": 70.7546619741265
+    },
+    {
+        "blockHight": "1623612871",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1623612871",
+        "token": "yearn.finance",
+        "balance": 0.04318880997493714
+    },
+    {
+        "blockHight": "1623612965",
+        "token": "yearn.finance",
+        "balance": 0
+    },
+    {
+        "blockHight": "1623612965",
+        "token": "Balancer Pool Token",
+        "balance": 193471.86469263837
+    },
+    {
+        "blockHight": "1624303825",
+        "token": "Balancer",
+        "balance": 122.03760578512556
+    },
+    {
+        "blockHight": "1624347481",
+        "token": "Balancer Pool Token",
+        "balance": 2.9103830456733704e-11
+    },
+    {
+        "blockHight": "1624347481",
+        "token": "Wrapped BTC",
+        "balance": 16.31309592
+    },
+    {
+        "blockHight": "1624347481",
+        "token": "yearn.finance",
+        "balance": 17.691578989505967
+    },
+    {
+        "blockHight": "1624347481",
+        "token": "Balancer",
+        "balance": 8269.569265077544
+    },
+    {
+        "blockHight": "1624347481",
+        "token": "Compound",
+        "balance": 571.2879278655439
+    },
+    {
+        "blockHight": "1624704723",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1624704724",
+        "token": "Wrapped BTC",
+        "balance": 0
+    },
+    {
+        "blockHight": "1624704724",
+        "token": "yearn.finance",
+        "balance": 0
+    },
+    {
+        "blockHight": "1624704801",
+        "token": "Compound",
+        "balance": 0
+    },
+    {
+        "blockHight": "1625785089",
+        "token": "Uniswap",
+        "balance": 17709.596912
+    },
+    {
+        "blockHight": "1625785124",
+        "token": "Decentraland",
+        "balance": 562847.93
+    },
+    {
+        "blockHight": "1625785250",
+        "token": "Curve DAO Token",
+        "balance": 204016.106
+    },
+    {
+        "blockHight": "1625785493",
+        "token": "SushiToken",
+        "balance": 38188.567
+    },
+    {
+        "blockHight": "1625818194",
+        "token": "SushiToken",
+        "balance": 44410.9221
+    },
+    {
+        "blockHight": "1625820450",
+        "token": "Uniswap",
+        "balance": 590.3185448254735
+    },
+    {
+        "blockHight": "1625820450",
+        "token": "SushiToken",
+        "balance": 557.42820052553
+    },
+    {
+        "blockHight": "1625820450",
+        "token": "Curve DAO Token",
+        "balance": 464.9175533063535
+    },
+    {
+        "blockHight": "1625820450",
+        "token": "Decentraland",
+        "balance": 0
+    },
+    {
+        "blockHight": "1625820450",
+        "token": "Balancer Pool Token",
+        "balance": 100.0000000000291
+    },
+    {
+        "blockHight": "1625820607",
+        "token": "Uniswap",
+        "balance": -4.547473508864641e-13
+    },
+    {
+        "blockHight": "1625820735",
+        "token": "SushiToken",
+        "balance": 6.821210263296962e-13
+    },
+    {
+        "blockHight": "1626094990",
+        "token": "Balancer",
+        "balance": 139.4121331314063
+    },
+    {
+        "blockHight": "1626095442",
+        "token": "Balancer",
+        "balance": 69.7061331314063
+    },
+    {
+        "blockHight": "1626100465",
+        "token": "Balancer",
+        "balance": 1.4210854715202004e-14
+    },
+    {
+        "blockHight": "1626100465",
+        "token": "Uniswap",
+        "balance": 73.74606134732088
+    },
+    {
+        "blockHight": "1626100520",
+        "token": "Uniswap",
+        "balance": -4.547473508864641e-13
+    },
+    {
+        "blockHight": "1626100520",
+        "token": "Balancer Pool Token",
+        "balance": 100.10404490823626
+    },
+    {
+        "blockHight": "1626100561",
+        "token": "Curve DAO Token",
+        "balance": -4.888534022029489e-12
+    },
+    {
+        "blockHight": "1626100561",
+        "token": "Balancer Pool Token",
+        "balance": 100.15973627961635
+    },
+    {
+        "blockHight": "1627218750",
+        "token": "Balancer Pool Token",
+        "balance": 2.9103830456733704e-11
+    },
+    {
+        "blockHight": "1627218750",
+        "token": "Uniswap",
+        "balance": 18928.946161257063
+    },
+    {
+        "blockHight": "1627218750",
+        "token": "SushiToken",
+        "balance": 42452.11827115076
+    },
+    {
+        "blockHight": "1627218750",
+        "token": "Curve DAO Token",
+        "balance": 226127.82863481497
+    },
+    {
+        "blockHight": "1627218750",
+        "token": "Decentraland",
+        "balance": 480054.2017172823
+    },
+    {
+        "blockHight": "1638418793",
+        "token": "A68.net",
+        "balance": 9.3989e-14
+    },
+    {
+        "blockHight": "1638419074",
+        "token": "A68.net",
+        "balance": 93989.28
+    },
+    {
+        "blockHight": "1643713759",
+        "token": "SushiToken",
+        "balance": 34452.11827115076
+    },
+    {
+        "blockHight": "1643713759",
+        "token": "Notional",
+        "balance": 25366.5595273
+    },
+    {
+        "blockHight": "1643713904",
+        "token": "Uniswap",
+        "balance": 9928.946161257063
+    },
+    {
+        "blockHight": "1643713904",
+        "token": "Wrapped Ether",
+        "balance": 36.94349887228097
+    },
+    {
+        "blockHight": "1643714106",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 1078.1192175935646
+    },
+    {
+        "blockHight": "1643714106",
+        "token": "Wrapped Ether",
+        "balance": 23.941590074411835
+    },
+    {
+        "blockHight": "1643714106",
+        "token": "Notional",
+        "balance": 0
+    },
+    {
+        "blockHight": "1643981240",
+        "token": "Decentraland",
+        "balance": 475054.2017172823
+    },
+    {
+        "blockHight": "1643981240",
+        "token": "Bankless Token",
+        "balance": 245818.74162867037
+    },
+    {
+        "blockHight": "1643981726",
+        "token": "Decentraland",
+        "balance": 470054.2017172823
+    },
+    {
+        "blockHight": "1643981726",
+        "token": "Bankless Token",
+        "balance": 487565.06372887886
+    },
+    {
+        "blockHight": "1643981914",
+        "token": "BANKLESS DAO Bulls",
+        "balance": 77531.28755706637
+    },
+    {
+        "blockHight": "1643981914",
+        "token": "Bankless Token",
+        "balance": 0
+    },
+    {
+        "blockHight": "1643981914",
+        "token": "Wrapped Ether",
+        "balance": 21.594363724411988
+    },
+    {
+        "blockHight": "1644942057",
+        "token": "Balancer",
+        "balance": 14.947167640000014
+    },
+    {
+        "blockHight": "1644942057",
+        "token": "Notional",
+        "balance": 626.87036383
+    },
+    {
+        "blockHight": "1644951847",
+        "token": "Lens Protocol",
+        "balance": 627052.8598787643
+    },
+    {
+        "blockHight": "1644952166",
+        "token": "Lens Protocol",
+        "balance": null
+    },
+    {
+        "blockHight": "1644965205",
+        "token": "Lens Protocol",
+        "balance": null
+    },
+    {
+        "blockHight": "1645001053",
+        "token": "Lens Protocol",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1645026097",
+        "token": "Balancer",
+        "balance": 1.4210854715202004e-14
+    },
+    {
+        "blockHight": "1645026097",
+        "token": "Notional",
+        "balance": 830.29988178
+    },
+    {
+        "blockHight": "1645026191",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 1106.6904824000198
+    },
+    {
+        "blockHight": "1645026191",
+        "token": "Wrapped Ether",
+        "balance": 21.313891784436375
+    },
+    {
+        "blockHight": "1645026191",
+        "token": "Notional",
+        "balance": 0
+    },
+    {
+        "blockHight": "1645051870",
+        "token": "Solidly",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1645113788",
+        "token": "Lens Protocol",
+        "balance": 1568844.1136677256
+    },
+    {
+        "blockHight": "1645207419",
+        "token": "Solidly Exchange",
+        "balance": 59336.236517799436
+    },
+    {
+        "blockHight": "1645440055",
+        "token": "Balancer",
+        "balance": 25.779029480000013
+    },
+    {
+        "blockHight": "1645440055",
+        "token": "Notional",
+        "balance": 813.35885919
+    },
+    {
+        "blockHight": "1645442783",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 1134.9032291188964
+    },
+    {
+        "blockHight": "1645442783",
+        "token": "Wrapped Ether",
+        "balance": 21.034216031492303
+    },
+    {
+        "blockHight": "1645442783",
+        "token": "Notional",
+        "balance": 0
+    },
+    {
+        "blockHight": "1645665484",
+        "token": "Solidly",
+        "balance": 1568844.1136677256
+    },
+    {
+        "blockHight": "1646263435",
+        "token": "Evmos",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1646340581",
+        "token": "Shibuya",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1646515977",
+        "token": "Xar",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1646873139",
+        "token": "OpenSea",
+        "balance": 784422.0568338628
+    },
+    {
+        "blockHight": "1646900520",
+        "token": "KittyPop",
+        "balance": 29700
+    },
+    {
+        "blockHight": "1647938145",
+        "token": "Balancer",
+        "balance": 90.88524712
+    },
+    {
+        "blockHight": "1647938145",
+        "token": "Notional",
+        "balance": 3220.19052091
+    },
+    {
+        "blockHight": "1647938284",
+        "token": "BANKLESS DAO Bulls",
+        "balance": 0
+    },
+    {
+        "blockHight": "1647938284",
+        "token": "Bankless Token",
+        "balance": 550502.9585050354
+    },
+    {
+        "blockHight": "1647938284",
+        "token": "Wrapped Ether",
+        "balance": 22.492687507560355
+    },
+    {
+        "blockHight": "1647938509",
+        "token": "Bankless Token",
+        "balance": 300000
+    },
+    {
+        "blockHight": "1647938509",
+        "token": "Notional",
+        "balance": 11944.24411213
+    },
+    {
+        "blockHight": "1648019882",
+        "token": "Bankless Token",
+        "balance": 200000
+    },
+    {
+        "blockHight": "1648019882",
+        "token": "Notional",
+        "balance": 15241.19715446
+    },
+    {
+        "blockHight": "1648058108",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 1611.560489487811
+    },
+    {
+        "blockHight": "1648058108",
+        "token": "Wrapped Ether",
+        "balance": 18.212173769816772
+    },
+    {
+        "blockHight": "1648058108",
+        "token": "Notional",
+        "balance": 0
+    },
+    {
+        "blockHight": "1648456306",
+        "token": "Balancer",
+        "balance": 104.33875288
+    },
+    {
+        "blockHight": "1648456306",
+        "token": "Notional",
+        "balance": 807.21034546
+    },
+    {
+        "blockHight": "1648456374",
+        "token": "Bankless Token",
+        "balance": 100000
+    },
+    {
+        "blockHight": "1648456374",
+        "token": "Notional",
+        "balance": 4149.47673443
+    },
+    {
+        "blockHight": "1648457073",
+        "token": "Bankless Token",
+        "balance": 0
+    },
+    {
+        "blockHight": "1648457073",
+        "token": "Notional",
+        "balance": 7425.6957046200005
+    },
+    {
+        "blockHight": "1648457912",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 1841.4568371808173
+    },
+    {
+        "blockHight": "1648457912",
+        "token": "Wrapped Ether",
+        "balance": 16.16519642111886
+    },
+    {
+        "blockHight": "1648457912",
+        "token": "Notional",
+        "balance": 9.094947017729282e-13
+    },
+    {
+        "blockHight": "1648474366",
+        "token": "Decentraland",
+        "balance": 469229.2956172823
+    },
+    {
+        "blockHight": "1648582721",
+        "token": "Concave Token",
+        "balance": 343152.58480491454
+    },
+    {
+        "blockHight": "1648582721",
+        "token": "Concave Token",
+        "balance": 0
+    },
+    {
+        "blockHight": "1648597111",
+        "token": "Coslend",
+        "balance": 24955.90880189976
+    },
+    {
+        "blockHight": "1648597111",
+        "token": "Coslend",
+        "balance": 0
+    },
+    {
+        "blockHight": "1649024089",
+        "token": "Conic Finance",
+        "balance": 1793.5191611810433
+    },
+    {
+        "blockHight": "1649153958",
+        "token": "Balancer",
+        "balance": 121.45095893999999
+    },
+    {
+        "blockHight": "1649153958",
+        "token": "Notional",
+        "balance": 1026.732363540001
+    },
+    {
+        "blockHight": "1649744332",
+        "token": "Balancer",
+        "balance": 143.07093299
+    },
+    {
+        "blockHight": "1649744332",
+        "token": "Notional",
+        "balance": 2323.930806610001
+    },
+    {
+        "blockHight": "1652091235",
+        "token": "NOTE/WETH Weighted Pool",
+        "balance": 2.2737367544323206e-13
+    },
+    {
+        "blockHight": "1652091235",
+        "token": "Wrapped Ether",
+        "balance": 32.237016477824
+    },
+    {
+        "blockHight": "1652091235",
+        "token": "Notional",
+        "balance": 63447.61192502
+    },
+    {
+        "blockHight": "1652092007",
+        "token": "Decentraland",
+        "balance": -5.820766091346741e-11
+    },
+    {
+        "blockHight": "1652092103",
+        "token": "Wrapped Ether",
+        "balance": 0
+    },
+    {
+        "blockHight": "1652092780",
+        "token": "SushiToken",
+        "balance": 0
+    },
+    {
+        "blockHight": "1652092871",
+        "token": "Uniswap",
+        "balance": 0
+    },
+    {
+        "blockHight": "1652092871",
+        "token": "Notional",
+        "balance": 0
+    },
+    {
+        "blockHight": "1652092871",
+        "token": "Balancer",
+        "balance": 0
+    },
+    {
+        "blockHight": "1652260005",
+        "token": "Curve DAO Token",
+        "balance": 0
+    },
+    {
+        "blockHight": "1657876398",
+        "token": "Bankless Token",
+        "balance": 4986.44573255
+    },
+    {
+        "blockHight": "1657876562",
+        "token": "Bankless Token",
+        "balance": 0
+    },
+    {
+        "blockHight": "1658307432",
+        "token": "Dai Stablecoin",
+        "balance": 500000
+    },
+    {
+        "blockHight": "1658315083",
+        "token": "Dai Stablecoin",
+        "balance": 400000
+    },
+    {
+        "blockHight": "1658315083",
+        "token": "EnjinCoin",
+        "balance": 157325.8728090728
+    },
+    {
+        "blockHight": "1658315569",
+        "token": "Dai Stablecoin",
+        "balance": 300000
+    },
+    {
+        "blockHight": "1658315569",
+        "token": "Decentraland",
+        "balance": 100723.54517204364
+    },
+    {
+        "blockHight": "1658315790",
+        "token": "Dai Stablecoin",
+        "balance": 200000
+    },
+    {
+        "blockHight": "1658315790",
+        "token": "ApeCoin",
+        "balance": 15669.710305757044
+    },
+    {
+        "blockHight": "1658316392",
+        "token": "Dai Stablecoin",
+        "balance": 100000
+    },
+    {
+        "blockHight": "1658316392",
+        "token": "SAND",
+        "balance": 70355.81592481612
+    },
+    {
+        "blockHight": "1658390119",
+        "token": "Dai Stablecoin",
+        "balance": 0
+    },
+    {
+        "blockHight": "1658494042",
+        "token": "Axie Infinity Shard",
+        "balance": 10.61
+    },
+    {
+        "blockHight": "1658494531",
+        "token": "Axie Infinity Shard",
+        "balance": 6210.4
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "20MANA-20SAND-20APE-20AXS-20ENJ",
+        "balance": 192906.56977585878
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "Decentraland",
+        "balance": 4949.199616277634
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "SAND",
+        "balance": 140.12208223863854
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "ApeCoin",
+        "balance": 1023.4919582255425
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "Axie Infinity Shard",
+        "balance": 693.7423670765229
+    },
+    {
+        "blockHight": "1658566526",
+        "token": "EnjinCoin",
+        "balance": 0
+    },
+    {
+        "blockHight": "1659088553",
+        "token": "USD Coin",
+        "balance": 750000
+    },
+    {
+        "blockHight": "1659089041",
+        "token": "USD Coin",
+        "balance": 600000
+    },
+    {
+        "blockHight": "1659089041",
+        "token": "ApeCoin",
+        "balance": 22259.66458489281
+    },
+    {
+        "blockHight": "1659089510",
+        "token": "USD Coin",
+        "balance": 450000
+    },
+    {
+        "blockHight": "1659089510",
+        "token": "SAND",
+        "balance": 109124.539364289
+    },
+    {
+        "blockHight": "1659090115",
+        "token": "USD Coin",
+        "balance": 300000
+    },
+    {
+        "blockHight": "1659090115",
+        "token": "Decentraland",
+        "balance": 155816.12606010737
+    },
+    {
+        "blockHight": "1659102663",
+        "token": "Dai Stablecoin",
+        "balance": 250000
+    },
+    {
+        "blockHight": "1659102840",
+        "token": "Dai Stablecoin",
+        "balance": 350000
+    },
+    {
+        "blockHight": "1659103239",
+        "token": "Dai Stablecoin",
+        "balance": 100000
+    },
+    {
+        "blockHight": "1659103298",
+        "token": "USD Coin",
+        "balance": 50000
+    },
+    {
+        "blockHight": "1659106163",
+        "token": "Axie Infinity Shard",
+        "balance": 8849.962367076523
+    },
+    {
+        "blockHight": "1659160902",
+        "token": "USD Coin",
+        "balance": 25000
+    },
+    {
+        "blockHight": "1659160902",
+        "token": "EnjinCoin",
+        "balance": 40799.139625
+    },
+    {
+        "blockHight": "1659161063",
+        "token": "USD Coin",
+        "balance": 0
+    },
+    {
+        "blockHight": "1659161063",
+        "token": "EnjinCoin",
+        "balance": 80401.48053792301
+    },
+    {
+        "blockHight": "1659161551",
+        "token": "Dai Stablecoin",
+        "balance": 90000
+    },
+    {
+        "blockHight": "1659161551",
+        "token": "EnjinCoin",
+        "balance": 96728.276005923
+    },
+    {
+        "blockHight": "1659161612",
+        "token": "Dai Stablecoin",
+        "balance": 80000
+    },
+    {
+        "blockHight": "1659161612",
+        "token": "EnjinCoin",
+        "balance": 113047.636169923
+    },
+    {
+        "blockHight": "1659161835",
+        "token": "Dai Stablecoin",
+        "balance": 77500
+    },
+    {
+        "blockHight": "1659161835",
+        "token": "EnjinCoin",
+        "balance": 117064.53032879501
+    },
+    {
+        "blockHight": "1659161835",
+        "token": "Dai Stablecoin",
+        "balance": 70000
+    },
+    {
+        "blockHight": "1659161835",
+        "token": "EnjinCoin",
+        "balance": 129094.62771849438
+    },
+    {
+        "blockHight": "1659163155",
+        "token": "Dai Stablecoin",
+        "balance": 35000
+    },
+    {
+        "blockHight": "1659163155",
+        "token": "USD Coin",
+        "balance": 35001.34221
+    },
+    {
+        "blockHight": "1659163292",
+        "token": "USD Coin",
+        "balance": 25001.342210000003
+    },
+    {
+        "blockHight": "1659163292",
+        "token": "EnjinCoin",
+        "balance": 144896.60058309726
+    },
+    {
+        "blockHight": "1659165169",
+        "token": "Dai Stablecoin",
+        "balance": 25000
+    },
+    {
+        "blockHight": "1659165169",
+        "token": "EnjinCoin",
+        "balance": 160635.47012044824
+    },
+    {
+        "blockHight": "1659165200",
+        "token": "USD Coin",
+        "balance": 10001.342210000003
+    },
+    {
+        "blockHight": "1659165200",
+        "token": "EnjinCoin",
+        "balance": 184046.87576369278
+    },
+    {
+        "blockHight": "1659165235",
+        "token": "Dai Stablecoin",
+        "balance": 10000
+    },
+    {
+        "blockHight": "1659165235",
+        "token": "EnjinCoin",
+        "balance": 207469.20128071218
+    },
+    {
+        "blockHight": "1659165315",
+        "token": "USD Coin",
+        "balance": 6924.006145000003
+    },
+    {
+        "blockHight": "1659165315",
+        "token": "EnjinCoin",
+        "balance": 212159.66232632732
+    },
+    {
+        "blockHight": "1659165315",
+        "token": "USD Coin",
+        "balance": 2.7284841053187847e-12
+    },
+    {
+        "blockHight": "1659165315",
+        "token": "EnjinCoin",
+        "balance": 223067.17336258283
+    },
+    {
+        "blockHight": "1659165353",
+        "token": "Dai Stablecoin",
+        "balance": 0
+    },
+    {
+        "blockHight": "1659165353",
+        "token": "EnjinCoin",
+        "balance": 238648.95260119112
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "20MANA-20SAND-20APE-20AXS-20ENJ",
+        "balance": 489220.9140691645
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "Decentraland",
+        "balance": 8454.903400425392
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "SAND",
+        "balance": 0
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "ApeCoin",
+        "balance": 438.29149907917235
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "Axie Infinity Shard",
+        "balance": 0
+    },
+    {
+        "blockHight": "1659165866",
+        "token": "EnjinCoin",
+        "balance": 3535.821672491322
+    }
+]
