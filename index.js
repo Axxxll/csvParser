@@ -3,7 +3,7 @@ const csv = require('csv-parser')
 const resultsOfCsv = []  // Stores innitialy parsed csv document
 const result = [] // Stores result of function 
 const accId = '0xaf5a05ebe2d24c5c6a6be222f824a8a0c170daec'
-let  obj = {}
+let  wallet = {} // stores a key = tokenName & value = amount
 
 fs.createReadStream('export-address-token-0xAf5a05ebe2D24C5C6A6bE222F824A8a0C170dAEC.csv')
   .pipe(csv())
@@ -12,24 +12,34 @@ fs.createReadStream('export-address-token-0xAf5a05ebe2D24C5C6A6bE222F824A8a0C170
 
 function parseCsvDoc() {
     for (let i = 0; i < resultsOfCsv.length; i++) {
-      let leBalance = resultsOfCsv[i].TokenName
-      if(!obj[leBalance]) {
-        obj[leBalance] = 0
-      }
-      if (resultsOfCsv[i].To === accId) {
-        obj[leBalance] += Number(resultsOfCsv[i].Value.replace(',', ""))
-      } else if (resultsOfCsv[i].From === accId){
-        obj[leBalance] -= Number(resultsOfCsv[i].Value.replace(',', ""))
-      }
       let time = resultsOfCsv[i].UnixTimestamp
-      let name = resultsOfCsv[i].TokenName
+      let j = i + 1
+      let currentTokenName = calcBallance(i)
       let res = {
         blockHight: time, 
-        token: name,
-        balance: obj[leBalance]
+        [currentTokenName]: wallet[currentTokenName]
+      } 
+      while (resultsOfCsv[i].UnixTimestamp === resultsOfCsv[j]?.UnixTimestamp) {
+        i += 1
+        j += 1
+        currentTokenName = calcBallance(i)
+        res[currentTokenName] = wallet[currentTokenName]
       }
-      result.push(res)
+        result.push(res)     
     }
     fs.writeFileSync('tokenStorage.json', JSON.stringify(result))
-    console.log(obj)
 }
+
+function calcBallance(i) {
+  let currentTokenName = resultsOfCsv[i].TokenName
+  if (!wallet[currentTokenName]) {
+    wallet[currentTokenName] = 0
+  }
+  if (resultsOfCsv[i].To === accId) {
+    wallet[currentTokenName] += Number(resultsOfCsv[i].Value.replaceAll(',', ""))
+  } else if (resultsOfCsv[i].From === accId) {
+    wallet[currentTokenName] -= Number(resultsOfCsv[i].Value.replaceAll(',', ""))
+  }
+  return currentTokenName
+}
+
